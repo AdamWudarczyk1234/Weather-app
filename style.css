@@ -11,7 +11,7 @@ body {
   display: block;
   margin: 0 auto;
 
-  border-radius: 10px;
+  border-radius: 12px;
   padding-bottom: 50px;
 
   background-image: url(weatherbackground1.jpg);
@@ -23,8 +23,8 @@ body {
   border-radius: 10px 10px 0 0;
   font-family: Lucida, serif;
   font-size: 25px;
-  letter-spacing: -0.2px;
-  word-spacing: 1.6px;
+  letter-spacing: -0.1px;
+  word-spacing: 1.5px;
   color: #ffffff;
   font-weight: 700;
   text-decoration: none;
